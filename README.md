@@ -16,5 +16,5 @@ directory, and then adding the following line to your .bashrc:
 This simple trick saves me several hundred keystrokes per day. 
 If you want to know just how much it's saving you, try: j -s
  
-Jefferson Smith
+Jefferson Smith\
 Exploring the intersection between software, creativity theory, and fiction at: http://creativityhacker.ca
